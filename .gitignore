@@ -29,3 +29,4 @@ packages/
 #Ignore files build by Visual Studio Code
 .vscode
 /C# Advanced/SetsAndDictionaries/SoftUniParty
+/C# Advanced/AdvancedModuleExamPrep/Armory
